@@ -1,0 +1,1 @@
+java -jar selenium-server-standalone-2.52.0.jar -role node  -hub http://lxomavmtc192.dev.qintra.com:4444/grid/registerjava -jar selenium-server-standalone-2.52.0.jar -role node -hub http://lxomavmtc192.dev.qintra.com:4444/grid/register  -Dwebdriver.chrome.driver=C:/Selenium/chromedriver.exe -Dwebdriver.ie.driver=C:/Selenium/IEDriverServer.exe
